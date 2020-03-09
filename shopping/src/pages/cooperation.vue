@@ -129,7 +129,7 @@ export default{
         height: 300px;
         width: 100%;
         background:url('../images/banner.jpg') no-repeat;
-        background-size:auto 100%;
+        background-size:100%;
         text-align: center;
         span{
             display: inline-block;
@@ -137,7 +137,7 @@ export default{
             background-color: #fff;
             margin:0px 10px;
             font-size:14.5px;
-            margin-top: 230px;
+            margin-top: 250px;
         }
     }
     .block{
